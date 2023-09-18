@@ -15,8 +15,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongoose": "^6.8.2",
-    "nodemon": "^2.0.20",
+    "mongoose": "^6.12.0",
+    "nodemon": "^3.0.0",
     "openai": "^3.1.0"
   }
 }
